@@ -1,5 +1,7 @@
 body {
     background-color: pink;
+    text-align:center; 
+    vertical-align:middle;
   }
 
 .words {
